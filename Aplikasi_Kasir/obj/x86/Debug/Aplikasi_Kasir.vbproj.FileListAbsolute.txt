@@ -1,0 +1,64 @@
+D:\Aplikasi_Kasir\Aplikasi_Kasir\bin\Debug\Aplikasi_Kasir.exe
+D:\Aplikasi_Kasir\Aplikasi_Kasir\bin\Debug\Aplikasi_Kasir.pdb
+D:\Aplikasi_Kasir\Aplikasi_Kasir\bin\Debug\Aplikasi_Kasir.xml
+D:\Aplikasi_Kasir\Aplikasi_Kasir\bin\Debug\alfathNET.dll
+D:\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.vbprojResolveAssemblyReference.cache
+D:\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_Utama.resources
+D:\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_Database.resources
+D:\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Resources.resources
+D:\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.vbproj.GenerateResource.Cache
+D:\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.exe
+D:\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.xml
+D:\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.pdb
+C:\visual studio 2010\Projects\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.exe
+C:\visual studio 2010\Projects\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.xml
+C:\visual studio 2010\Projects\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.pdb
+C:\visual studio 2010\Projects\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.vbprojResolveAssemblyReference.cache
+C:\visual studio 2010\Projects\Aplikasi_Kasir\Aplikasi_Kasir\bin\Debug\Aplikasi_Kasir.exe
+C:\visual studio 2010\Projects\Aplikasi_Kasir\Aplikasi_Kasir\bin\Debug\Aplikasi_Kasir.pdb
+C:\visual studio 2010\Projects\Aplikasi_Kasir\Aplikasi_Kasir\bin\Debug\Aplikasi_Kasir.xml
+C:\visual studio 2010\Projects\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_Utama.resources
+C:\visual studio 2010\Projects\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_Database.resources
+C:\visual studio 2010\Projects\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Resources.resources
+C:\visual studio 2010\Projects\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.vbproj.GenerateResource.Cache
+C:\visual studio 2010\Projects\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_DataJenis.resources
+C:\visual studio 2010\Projects\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_InputDataJenis.resources
+C:\visual studio 2010\Projects\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form1.resources
+C:\visual studio 2010\Projects\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.StatusDB.resources
+C:\visual studio 2010\Projects\Aplikasi_Kasir\Aplikasi_Kasir\bin\Debug\MySql.Data.dll
+C:\visual studio 2010\Projects\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_DataBarang.resources
+C:\visual studio 2010\Projects\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_DataDistributor.resources
+C:\visual studio 2010\Projects\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_InputDataBarang.resources
+C:\visual studio 2010\Projects\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_InputDataDistributor.resources
+C:\visual studio 2010\Projects\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_InputDataPelanggan.resources
+C:\visual studio 2010\Projects\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_InputDataStaf.resources
+C:\visual studio 2010\Projects\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_DataPelanggan.resources
+C:\visual studio 2010\Projects\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_DataStaf.resources
+C:\visual studio 2010\Projects\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_ViewJenis.resources
+D:\Amel\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.exe
+D:\Amel\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.xml
+D:\Amel\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.pdb
+D:\Amel\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.vbprojResolveAssemblyReference.cache
+D:\Amel\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_InputDataBarang.resources
+D:\Amel\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_InputDataDistributor.resources
+D:\Amel\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_InputDataJenis.resources
+D:\Amel\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_InputDataPelanggan.resources
+D:\Amel\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_InputDataStaf.resources
+D:\Amel\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_DataBarang.resources
+D:\Amel\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_DataDistributor.resources
+D:\Amel\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_DataJenis.resources
+D:\Amel\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_Database.resources
+D:\Amel\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_DataPelanggan.resources
+D:\Amel\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_DataStaf.resources
+D:\Amel\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_utama.resources
+D:\Amel\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.StatusDB.resources
+D:\Amel\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_ViewJenis.resources
+D:\Amel\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Resources.resources
+D:\Amel\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.vbproj.GenerateResource.Cache
+D:\Amel\Aplikasi_Kasir\Aplikasi_Kasir\bin\Debug\Aplikasi_Kasir.exe
+D:\Amel\Aplikasi_Kasir\Aplikasi_Kasir\bin\Debug\Aplikasi_Kasir.pdb
+D:\Amel\Aplikasi_Kasir\Aplikasi_Kasir\bin\Debug\Aplikasi_Kasir.xml
+D:\Amel\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_Pembelian.resources
+D:\Amel\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_Penjualan.resources
+D:\Amel\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_ViewPelanggan.resources
+D:\Amel\Aplikasi_Kasir\Aplikasi_Kasir\obj\x86\Debug\Aplikasi_Kasir.Form_InputPenjualan.resources
